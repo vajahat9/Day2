@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+}
+form{
+    width: 315px; height: 208px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black ;
+    margin-left: 435px;
+
+}
+.fname{
+    text-align: center;
+}
